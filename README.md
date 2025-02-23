@@ -1,9 +1,14 @@
 <h1 align="center">Hello, I'm Aditya Ingale</h1>
+
 ---
+
 🎓 Electronics and Telecommunication Graduate <br>💻 Aspiring Software Developer | Passionate about DSA, Databases, and System Design<br>📂 GitHub: Exploring C++, PostgreSQL, and Machine Learning projects<br>📖 Continuously Upskilling in Software Development & Emerging Technologies<br>🏆 Published 8 Research Papers <br>🎯 Looking for Opportunities in Software Development 
+
 ---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shut.terbuggin?igsh=MTlnMXpyd3o1b29hZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya041) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaa.ingale@gmail.com) 
+
 ---
 
 <h3 align="left"># 💻 Tech Stack:</h3>
