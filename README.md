@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Aditya Ingale</h1>
 
----
-
 🎓 Electronics and Telecommunication Graduate <br>💻 Aspiring Software Developer | Passionate about DSA, Databases, and System Design<br>📂 GitHub: Exploring C++, PostgreSQL, and Machine Learning projects<br>📖 Continuously Upskilling in Software Development & Emerging Technologies<br>🏆 Published 8 Research Papers <br>🎯 Looking for Opportunities in Software Development 
 
 ---
